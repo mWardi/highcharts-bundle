@@ -1,5 +1,5 @@
 {
-    "name": "webeweb/highcharts-bundle",
+    "name": "mwardi/highcharts-bundle",
     "type": "symfony-bundle",
     "description": "Integrate HighchartsJS with Symfony Framework",
     "keywords": [
